@@ -192,6 +192,11 @@ body{
     justify-content: space-between;
 }
 
+.newsLetterBtn{
+    margin-top: 5px;
+}
+
+
 /* FOOTER SECTION */
 .footer{
     width: 83%;
